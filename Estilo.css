@@ -1,0 +1,15 @@
+
+JAMedia, Creditos, Help, ToolbarSalir, ToolbarAccion, ToolbarAddStream,
+Derecha, Izquierda, BufferInfo, BalanceWidget, ToolbarcontrolValores,
+SlicerBalance, My_FileChooser, DialogoDescarga{
+    background-color: #ffffff;
+}
+
+Toolbar, ToolbarInfo, ProgressBar, ProgressPlayer, BarraProgreso,
+ProgressBar2, JAMediaToolbarList, PlayerControls, JAMediaToolButton{
+    background-color: #778899;
+}
+
+ToolbarGrabar, VideoVisor{
+    background-color: #000000;
+}
